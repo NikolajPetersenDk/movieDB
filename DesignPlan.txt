@@ -1,0 +1,43 @@
+WHat do we need?
+
+- Frontpage
+- Profilepage
+- Movie search (search bar)
+   - Movie info page
+- header
+   - user (logedin?)
+   - search btn
+   - logo
+- signup page
+- login page
+
+
+- Implementation
+   - Movie DB
+      X Movie search
+      X Fetch Movie Data
+      X Is user logged in?
+      - Delete from fav?
+   
+   - User
+      X Is logged in?
+         X Show username
+      X Sign up
+      X Login
+      X Log out
+      - Delete User
+      X Update Account
+         X update alert
+      X Fetch User Data
+         X Favorite movies
+            X Movie info
+            X Favorite Btn
+
+- Design
+   X User menu???
+   X style avatar uploader
+   X searchbar
+   -Mobile
+
+- Bugs
+   X _app viser ikke brugernavn før man refresher forsiden
